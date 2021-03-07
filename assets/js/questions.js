@@ -55,6 +55,61 @@ let questions = [
       "500 thousand"
     ]
   },
+      {
+    numb: 6,
+    question: "What did St. Patrick believe a shamrock represented?",
+    answer: "The Holy Trinity",
+    options: [
+      "Good Luck",
+      "Good Fortune",
+      "The Holy Trinity",
+      "Nature"
+    ]
+  },
+      {
+    numb: 7,
+    question: "What was St. Patrick's given birth name?",
+    answer: "Maewyn Succat",
+    options: [
+      "Henry O'Malley",
+      "Maewyn Succat",
+      "Gabriel McSweeney",
+      "Patrick O'Riley"
+    ]
+  },
+      {
+    numb: 8,
+    question: "Myth says that if a human catches a leprechaun, he has the ability to do what in turn for his release?",
+    answer: "Grant three wishes",
+    options: [
+      "Give you his shoes",
+      "Reveal the secret to life",
+      "Lead you to his gold",
+      "Grant three wishes"
+    ]
+  },
+      {
+    numb: 9,
+    question: "Which of these colours was originally associated with St. Patricks Day?",
+    answer: "Blue",
+    options: [
+      "Orange",
+      "Blue",
+      "White",
+      "Green"
+    ]
+  },
+      {
+    numb: 10,
+    question: "On what date is St. Patrick's Day?",
+    answer: "17th March",
+    options: [
+      "15th March",
+      "16th March",
+      "17th March",
+      "18th March"
+    ]
+  },
   // Hey hackathon team, you can uncomment the below code and add more questions of you like
   // but remember you need to give the 'numb' value serialise like 6,7,8,9.....
 
