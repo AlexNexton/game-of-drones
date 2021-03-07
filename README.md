@@ -6,7 +6,7 @@
 
 
 
-![](assets/readme-images/website-mockup.png)
+![](assets/images/readme-images/website-mockup.png)
 
 
 
