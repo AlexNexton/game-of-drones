@@ -2,7 +2,11 @@
 
 
 
-[View the live project here]()
+[View the live project here](https://alexnexton.github.io/game-of-drones/)
+
+
+
+![](assets/images/readme-images/website-mockup.png)
 
 
 
