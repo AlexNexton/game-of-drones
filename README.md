@@ -6,7 +6,7 @@
 
 
 
-![](assets/images/readme-images/website-mockup.png)
+![](assets/readme-images/website-mockup.png)
 
 
 
@@ -30,6 +30,7 @@ But this is no ordinary quiz. It's a St Patrick's Day themed quiz!
 
 * [Description](#description)
 * [User Stories](#user-stories)
+* [Wireframes](#wireframes)
 * [Technologies Used](#technologies-used)
 * [Deployment](#deployment)
 
@@ -50,6 +51,12 @@ It was designed for users to test their knowledge of St Patrick's Day and see if
 * "I want to be able to participate in a St Patrick's day quiz"
 * "I want to be able to select from multiple answers and know if I got the question right or wrong"
 * "I want to be challenged - so I want there to be a timer which is easy for me to see"
+
+
+
+## <a name="wireframes">Wireframes</a>
+
+![](assets/readme-images/wireframe-main.png)
 
 
 
