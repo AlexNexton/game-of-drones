@@ -5,11 +5,13 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+     overflow: hidden;
 }
 
 body{
     background: seagreen;
     background: url(../img/PADDYS.jpg) no-repeat center fixed;
+    overflow: hidden;
   
 }
 
@@ -425,3 +427,24 @@ footer button.show{
 .navbar-brand:hover {
   color: #fafafa;
 } 
+
+@media (max-width: 668px){
+     
+.info_box.activeInfo,
+.quiz_box.activeQuiz,
+.result_box.activeResult{
+    opacity: 1;
+    z-index: 5;
+    pointer-events: auto;
+    transform: translate(-50%, -20%) scale(1);
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 116px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ }
+ 
