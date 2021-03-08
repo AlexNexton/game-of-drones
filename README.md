@@ -6,7 +6,7 @@
 
 
 
-![](assets/readme-images/website-mockup.png)
+![Responsive](assets/img/paddysQuiz.png)
 
 
 
@@ -53,10 +53,17 @@ It was designed for users to test their knowledge of St Patrick's Day and see if
 * "I want to be challenged - so I want there to be a timer which is easy for me to see"
 
 
+## Wireframes
 
-## <a name="wireframes">Wireframes</a>
+Below are the Wireframes for our website.
 
-![](assets/images/readme-images/wireframe-main.png)
+- [Landingg Page](wireframes/landingPage.png)
+- [Quiz Rules](wireframes/quizRules.png)
+- [Finished quiz](wireframes/finishedQuiz.png)
+- [Start Quiz](wireframes/startQuiz.png)
+- [Main quiz](wireframes/mainQuiz.png)
+
+
 
 
 
