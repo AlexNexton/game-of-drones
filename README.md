@@ -56,7 +56,7 @@ It was designed for users to test their knowledge of St Patrick's Day and see if
 
 ## <a name="wireframes">Wireframes</a>
 
-![](assets/readme-images/wireframe-main.png)
+![](assets/images/readme-images/wireframe-main.png)
 
 
 
