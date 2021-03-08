@@ -1,7 +1,9 @@
  
  body{
-     background: url(../img/PADDYS.jpg) no-repeat center fixed;
+     background:seagreen;
+     
  }
+ 
 /*----------------------------------Navbar---------*/
 .nav-link{
     border-radius: 0%;
@@ -39,3 +41,23 @@
 .navbar-brand:hover {
   color: #fafafa;
 } 
+
+.aboutus-img img{
+    margin-top: 20%;
+    padding: 0px 20px;
+    height: 25%;
+    width: 20%;
+}
+
+
+.list-inline-item{
+    color: red;
+    background-color: red;
+    position: inherit;
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    background-color: rgb(54, 167, 105);
+}
