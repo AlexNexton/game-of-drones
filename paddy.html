@@ -4,12 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/game.css" type="text/css">
+    
+
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <title>Paddy'd Day Quiz</title>
     
  </head>
 <body>
+    <nav class="navbar bg-color-navbar navbar-expand-sm container-fluid fixed-top">
+    <a href="index.html" class="navbar-brand nav-text-color"></a>
+    <div class="col-12">
+     <ul class="navbar-nav mr-auto" >
+        <li class="nav-item mr-2 col-6"  data-toggle="collapse" data-target=".navbar-collapse.show">
+        <a href="index.html"  class="nav-link nav-text-color book-button hvr-grow-shadow"
+        ><i class="fas fa-home fa-lg"></i> Home</a>
+        </li>
+        <li class="nav-item mr-2 col-6"  data-toggle="collapse" data-target=".navbar-collapse.show" >
+        <a href="paddy.html" class="nav-link nav-text-color book-button hvr-grow-shadow" 
+         ><i class="fas fa-play fa-lg"></i> Paddy's Quiz</a>
+        </li>
+      </ul></div>
+     
+ </nav>
+
     <!-- start Quiz button -->
     <div class="start_btn"><button>Start Quiz</button></div>
 
@@ -53,7 +72,7 @@
             <div class="total_que">
                 <!-- Here I've inserted Question Count Number from JavaScript -->
             </div>
-            <button class="next_btn">Next Que</button>
+            <button class="next_btn">Next Question</button>
         </footer>
     </div>
 
