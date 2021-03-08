@@ -444,6 +444,15 @@ footer button.show{
     padding-left: 116px;
     margin-right: auto;
     margin-left: auto;
+    overflow: hidden;
+}
+.container_one{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 36px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
 }
 
  }
